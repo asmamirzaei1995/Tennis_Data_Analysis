@@ -1,0 +1,15 @@
+# Raw data
+data/raw data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Files not included in repository
+Tennis Schema.zip
+Tennis project.pdf
+notebook/*-checkpoint.ipynb
+notebook/*-checkpoint.pdf
